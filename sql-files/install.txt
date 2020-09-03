@@ -1,0 +1,6 @@
+1.RMmain.sql
+2.RMlog.sql
+3.users.sql
+4.custom.sql
+5.inserts.sql
+6.char_bg.sql
